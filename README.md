@@ -1,18 +1,14 @@
-# Auspify Python Development Internship
+#Python Cli To-Do List Application
 
 ## Project Overview
-This repository contains the practical project tasks developed during my 1-Month Virtual Python Development Internship at Auspify Technologies. 
+A modular, terminal-based personal workflow manager built using core Python data structures, loops, and exception handling.
 
-## Task 1: Personal To-Do List Application
-A modular, terminal-based personal workflow manager built using core Python structures.
+## Implementation Features
+* *Task Management Engine:* Enables continuous creation, retrieval, and deletion of custom task workflows.
+* *Dynamic Enumeration:* Automatically indexes current active tasks for intuitive user navigation.
+* *Robust Exception Handling:* Standardized error-catching logic to safely handle invalid strings and empty entries.
 
-### Implementation Features
-- **Task Management Engine:** Enables continuous creation, retrieval, and deletion of custom task workflows.
-- **Dynamic Enumeration:** Automatically indexes current active tasks for intuitive user navigation.
-- **Robust Exception Handling:** Standardized error catching architectures to trap invalid string and empty integer entries.
-
-### Execution Guide
-Navigate to the directory and run the application using:
-```bash
+## Execution Guide
+Navigate to the project directory and run the application using:
+bash
 python todo_app.py
-```
